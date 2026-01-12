@@ -6157,6 +6157,17 @@
                     "strval": "DEFAULT",
                     "childs": [
                       {
+                        "nid": -1658141648,
+                        "strtype": "_style/Text_Color",
+                        "intarray": [
+                          255,
+                          255,
+                          255,
+                          255
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
                         "nid": -1255296738,
                         "strtype": "_style/Text_Font",
                         "strval": "Digitaled",
@@ -6445,6 +6456,17 @@
                     "strtype": "_style/StyleState",
                     "strval": "DEFAULT",
                     "childs": [
+                      {
+                        "nid": 1290830703,
+                        "strtype": "_style/Text_Color",
+                        "intarray": [
+                          255,
+                          255,
+                          255,
+                          255
+                        ],
+                        "InheritedType": 7
+                      },
                       {
                         "nid": -1253046899,
                         "strtype": "_style/Text_Font",
